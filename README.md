@@ -4,7 +4,7 @@
 
 <h2>🚀 Demo</h2>
 
-[shanti.quest](shanti.quest)
+<p>https://shanti.quest</p>
   
   
 <h2>🧐 Features</h2>
